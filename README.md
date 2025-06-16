@@ -15,12 +15,15 @@ Hi, I'm **Ahmed Alaaeldin**
 </a>
 
 ## 💻 Tech Stack
-<img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase" />
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" style="margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" style="margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" style="margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase" style="margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" style="margin-right: 5px;" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" />
+</p>
+
 
 
 ## 📊 GitHub Stats
